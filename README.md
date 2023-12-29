@@ -1,3 +1,7 @@
+# Olá, meu nome é Guilherme! 👋
+
+E este é o meu primeiro site seja bem vindo!!
+
 # 🚀 Sobre mim
 Eu estou estudando para me tornar um desenvolvedor Front End e futuramente um desenvolvedor Full Stack.
 
@@ -11,5 +15,9 @@ Eu estou estudando para me tornar um desenvolvedor Front End e futuramente um de
 
 # 🛠 Habilidades
 Javascript, HTML, CSS
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
